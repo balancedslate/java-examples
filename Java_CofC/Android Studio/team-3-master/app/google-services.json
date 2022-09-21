@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "272577344820",
+    "project_id": "kipos-a2055",
+    "storage_bucket": "kipos-a2055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272577344820:android:a905b96622379f502de161",
+        "android_client_info": {
+          "package_name": "com.example.kipos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272577344820-2o7i0sfebl329pbjigl9jmskm3j9cfoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kipos",
+            "certificate_hash": "5aa7da5179e71e962c96dc3aedb835814ae0894a"
+          }
+        },
+        {
+          "client_id": "272577344820-ql3nv073n172dslg1psck276h7hhv0li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0NXs9yZAsFXC3r3PMMJ7FPKvEQYFvk8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272577344820-ql3nv073n172dslg1psck276h7hhv0li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
